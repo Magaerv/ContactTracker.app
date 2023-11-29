@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-La aplicación de gestión de contactos me permitió trabajar con diferentes aspectos de React Router DOM v6:
+The contact management application allowed me to work with different aspects of React Router DOM v6:
 
 1. Incorporating routing functionality and defining the Root route
 2. Handling Not Found Errors
